@@ -1,7 +1,7 @@
 <h1 align="center"> DevNotes </h1>
 
 <p align="center">
-Programa similar so Google Keep. <br/>
+Programa similar ao Google Keep. <br/>
 </p>
 
 <p align="center">
